@@ -23,6 +23,7 @@ namespace Iteration
             {
                 Console.WriteLine("Are we nearly there yet?");
                 areWeNearlyThereYet = Console.ReadLine().ToLower() == "yes";
+
             }
         }
     }
